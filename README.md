@@ -1,7 +1,8 @@
 
 # Memo-Production.com.github.az
-Memo-Productionun Orginal v[README.md](https://github.com/user-attachments/files/29288861/README.md)
-ebsaytıdır.Buradan hamıya salamlar
+Memo-Productionun Orginal vebsaytıdır.Buradan hamıya salamlar
+
+[README.md](https://github.com/user-attachments/files/29288861/README.md)
 
 # UNDERTALE GOD MODE PATCHER 🎮
 
