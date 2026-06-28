@@ -55,6 +55,6 @@ Always **back up your save files** before using any patcher.
 <div align="center">
 
 Made with 💜 by **MemoProduction**  
-© 2024 MemoProduction — All rights reserved
+© 2026 MemoProduction — All rights reserved
 
 </div>
