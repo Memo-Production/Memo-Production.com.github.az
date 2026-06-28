@@ -23,7 +23,7 @@ If you discover a security vulnerability in any MemoProduction project:
 
 - **Do NOT open a public GitHub Issue**
 - Use GitHub's **Private Vulnerability Reporting** feature on this repository
-- Or contact the developer directly via GitHub: [@Memo-Production](https://github.com/Memo)
+- Or contact the developer directly via GitHub: [@Memo-Production](https://github.com/Memo-Production)
 - Or email: **rufatmuhammed62@gmail.com**
 
 ### What to include in your report:
